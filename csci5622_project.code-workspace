@@ -1,10 +1,15 @@
 {
 	"folders": [
 		{
+			"name": "project",
 			"path": "."
 		},
 		{
+			"name": "website",
 			"path": "../../website"
+		},
+		{
+			"path": ".."
 		}
 	],
 	"settings": {}
